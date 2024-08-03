@@ -3,7 +3,7 @@
 ## Project Overview
 
 Social Battalion is a non-profit organization that focuses on helping underprivileged communities and individuals by providing essential services such as fundraising, food donations, and community events. This project is a web application designed to manage and display information about donors, members, fundraisers, events, and more.
-This project is also my diploma final year project. While it is currently in the working phase, it has already received a score of 82/100, placing it among the top 5 projects in my class.
+This project is my diploma final year project. While i am not sure it is in the working phase or not ,but ya it has already received a score of 82/100, placing it among the top 5 projects in my class.
 
 ## Features
 
