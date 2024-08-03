@@ -104,7 +104,7 @@ C/7 Hariomnagar Society , Gotri , vadodara - 390023
 <div class="widget">
 <h3 class="widget-title">Email ID.</h3>
 <div class="widget-category">
-nikkipatel123@gmail.com
+jenishothers@gmail.com
 </div>
 </div>
 
