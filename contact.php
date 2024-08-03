@@ -89,7 +89,7 @@ include("header.php");
 <div class="widget">
 <h3 class="widget-title">Address</h3>
 <div class="widget-category">
-C/7 Hariomnagar Society , Gotri , vadodara - 390023
+new sama, vadodara - 390023
 </div>
 </div>
 
